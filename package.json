@@ -11,5 +11,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Kissa Leon Denis"
+	"author": "Kissa Leon Denis",
+	"description": "A project that does something awesome and helps me learn more"
+
 }
