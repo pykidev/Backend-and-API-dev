@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example":"1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -12,6 +13,9 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Kissa Leon Denis",
-	"description": "A project that does something awesome and helps me learn more"
+	"description": "A project that does something awesome and helps me learn more",
+	"keywords": ["descriptive", "related", "words", "freecodecamp"],
+	"license":"MIT",
+	"version": "1.2.0"
 
 }
